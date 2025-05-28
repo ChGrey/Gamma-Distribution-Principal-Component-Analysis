@@ -4,9 +4,9 @@ Scattering characteristics of synthetic aperture radar (SAR) targets are typical
 ## Introduction
 Implementation of Gamma-Distribution Principal Analysis (ΓPCA).
 <div align="center">
-  <img src="https://github.com/ChGrey/Gamma-Distribution-Principal-Component-Analysis/raw/main/img//gpca_model.png" alt="img1">
+  <img src="https://github.com/ChGrey/Gamma-Distribution-Principal-Component-Analysis/raw/main/img//gpca_model.png" alt="img1" width="90%">
 </div>
 ΓPCA feature illustration.
 <div align="center">
-  <img src="https://github.com/ChGrey/Gamma-Distribution-Principal-Component-Analysis/raw/main/img/conv_output.png" alt="img2" width="50%">
+  <img src="https://github.com/ChGrey/Gamma-Distribution-Principal-Component-Analysis/raw/main/img/conv_output.png" alt="img2" width="70%">
 </div>
