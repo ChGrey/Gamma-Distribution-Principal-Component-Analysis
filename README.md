@@ -8,5 +8,5 @@ Implementation of Gamma-Distribution Principal Analysis (ΓPCA).
 </div>
 ΓPCA feature illustration.
 <div align="center">
-  <img src="https://github.com/ChGrey/Gamma-Distribution-Principal-Component-Analysis/raw/main/img/conv_output.png" alt="img2" width="70%">
+  <img src="https://github.com/ChGrey/Gamma-Distribution-Principal-Component-Analysis/raw/main/img/conv_output.png" alt="img2" width="60%">
 </div>
