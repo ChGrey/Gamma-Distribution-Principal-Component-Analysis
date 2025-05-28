@@ -1,1 +1,2 @@
-# Gamma-Distribution-Principal-Component-Analysis
+# Gamma-Distribution Principal Component Analysis
+1. Introduction
